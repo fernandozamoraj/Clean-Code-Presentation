@@ -1,0 +1,24 @@
+﻿
+
+1. All possible Codes
+A-Z
+
+
+2. Codes that indicate a completed status
+X, Y, Z
+
+
+3. Code that must precede an R status
+Any code that indicates a completed code status
+
+4. Code Dictionary
+  
+A   - New
+B   - Initial Inspection
+C   - W(except R & U). Whatever
+R   - Awaiting Pickup
+U   - Awaiting Pickup  
+X   - Deemed Non-Repairable
+Y   - No Funds Availabable
+Z   - Repair Complete
+
